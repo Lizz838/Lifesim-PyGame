@@ -1,6 +1,6 @@
 import pygame
 import sys
-from state_manager import StateManager
+from data.state_manager import StateManager
 from states.splash import SplashState
 from states.title import TitleState
 from states.character import CharacterState
